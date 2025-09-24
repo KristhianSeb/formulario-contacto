@@ -1,4 +1,4 @@
-// Simulación de base de datos local
+
 const mensajes = [];
 
 document.getElementById("contactForm").addEventListener("submit", function(e) {
@@ -9,7 +9,7 @@ document.getElementById("contactForm").addEventListener("submit", function(e) {
   const mensaje = document.getElementById("mensaje").value;
 
   if (nombre && correo && mensaje) {
-    // Simula el envío a una API
+    
     mensajes.push({ nombre, correo, mensaje });
 
     alert("¡Formulario enviado correctamente!");
