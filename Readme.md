@@ -21,7 +21,7 @@ Permitir el envío de nombre, correo y mensaje por formulario, validando los cam
 - Visualización de los datos en consola para verificación
 
 
-## 🚀 Cómo ejecutar el proyecto
+##  Cómo ejecutar el proyecto
 
 1. Descarga los archivos del proyecto.
 2. Abrir el archivo `index.html` en tu navegador (doble clic o con Live Server).
